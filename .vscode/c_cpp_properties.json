@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "GCC 13.3.0",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/MinGW/include",
+                "C:/MinGW/include/c++/13.3.0",
+                "C:/MinGW/x86_64-w64-mingw32/include",
+                "C:/MinGW/lib/gcc/x86_64-w64-mingw32/13.3.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
