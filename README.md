@@ -7,8 +7,8 @@ I am re learning C++ at an advanced level. I learnt it way back in 4th grade but
 forgot most of it because i got interested in python which had a growing following 
 back then
 
-As of right now I am using the Apna College playlist on DSA in C++. Better build some
-foundation in the break periood i guess.
+As of right now I am using youtube playlists to learn DSA in C++. Better build some
+foundation in the break periood before i go to college i guess.
 
 Basically, every nth video has an associated c++ file called ClassN.cpp, it contains 
 every problem and homework given in that class. Sometimes i create my own problems
