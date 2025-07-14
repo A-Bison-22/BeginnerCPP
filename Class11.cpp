@@ -1,4 +1,5 @@
 // CT: DSA : Kadane's Algorithm
+// This shit had me stumped won't lie to you
 #include<iostream>
 #include<vector>
 using namespace std;
