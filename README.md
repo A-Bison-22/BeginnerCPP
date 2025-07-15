@@ -17,7 +17,7 @@ and write them into the file if they are relevant.
 
 Then after the class is over i go over to ChatGPT and discuss the topic with it to learn
 some minor concepts that the playlist skips, like default parameteres in a function or
-something idk; after this i ask it to give me 10 relatively harder problems which i solve
-in a folder called ChatGPT Challenges.
+something idk; after this i ask it to give me a couple of relatively harder problems which
+i solve in a folder called ChatGPT Challenges.
 
 After this i say hello to my dog (hendrix) and go for driving lessons.
