@@ -20,4 +20,4 @@ some minor concepts that the playlist skips, like default parameteres in a funct
 something idk; after this i ask it to give me a couple of relatively harder problems which
 i solve in a folder called ChatGPT Challenges.
 
-After this i say hello to my dog (hendrix) and go for driving lessons.
+After this i say hello to my dog (Hendrix) and go for driving lessons.
