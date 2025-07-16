@@ -21,3 +21,6 @@ something idk; after this i ask it to give me a couple of relatively harder prob
 i solve in a folder called ChatGPT Challenges.
 
 After this i say hello to my dog (Hendrix) and go for driving lessons.
+
+UPDATE : On the advice of my Mentors, i have decided to abandon C++ and will be pursuing
+DSA in python. 16-07-25
