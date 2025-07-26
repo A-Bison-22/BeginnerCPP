@@ -1,6 +1,6 @@
 Hey guys Good evening n shit
 
-It's 2:31 am 12/07/2025, which is exactly 1 hour since i joined git, because my friend Prisha adviced me to (shoutout Prisha) 
+It's 2:31 am 12/07/2025, which is exactly 1 hour since i joined git, because my friend Prisha adviced me to
 
 BeginnerCPP is a folder (repo or whatever) than contains my code of basic C++ programs.
 
